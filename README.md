@@ -1,5 +1,7 @@
 # caluladora
 
+![image](https://user-images.githubusercontent.com/1939353/210059034-29ec5c3f-6b94-497a-bbad-1f5a082719b8.png)
+
 ## Project setup
 ```
 yarn install
